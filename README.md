@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/kyky936/DevOpsCourse/_apis/build/status/hacto45.pipelines-java?branchName=main)](https://dev.azure.com/kyky936/DevOpsCourse/_build/latest?definitionId=8&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
